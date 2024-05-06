@@ -1,12 +1,12 @@
 ### Boas vindas ao meu perfil
 
-Meu nome é Glauco de Paula Junior 
+- Meu nome é Glauco de Paula Junior 
 
-Estou estudando na Alura
+- Estou estudando na Alura
 
-Estou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ### Você pode entrar em contato comigo
 
